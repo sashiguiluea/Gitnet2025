@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Progrador .net!");
+Console.WriteLine("Progrador Andrés .net!");
